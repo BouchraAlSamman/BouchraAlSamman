@@ -1,4 +1,4 @@
- My name is Bouchra Al amman
+ My name is Bouchra Al Samman
 =================================
 
 Junior Web Developer And Designer
@@ -7,7 +7,9 @@ Junior Web Developer And Designer
 I started making a website using Html Css Java script and I have a passion to complete the back end and further develop to become a professional programmer
 
 * 🌍  I'm based in Lebanon
+
 * ✉️  You can contact me at [Boshraalsamman54@gmail.com](mailto:Boshraalsamman54@gmail.com)
+
 
 ### Skills
 
