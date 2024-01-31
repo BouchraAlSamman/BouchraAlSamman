@@ -1,7 +1,7 @@
  My name is Bouchra Al amman
 =================================
 
-Web Developer And Designer
+Junior Web Developer And Designer
 --------------------------
 
 I started making a website using Html Css Java script and I have a passion to complete the back end and further develop to become a professional programmer
